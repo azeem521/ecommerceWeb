@@ -83,6 +83,9 @@ const history = useNavigate();
         </button>
       </div>
     </form>
+    <div style={{color:'white'}}>Dummy Caredential</div>
+    <div style={{color:'white'}}>Email: test@gmail.com</div>
+    <div style={{color:'white'}}>Password: 123456</div>
   </section>
   )
 }
